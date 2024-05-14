@@ -1,0 +1,36 @@
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+h1{
+    text-align: center;
+}
+
+.time-section {
+    border: 2px solid #333;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex;
+    display: block;
+}
+
+.time-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.time-info {
+    font-size: 18px;
+}
+
+.time-curiosidade {
+    font-style: italic;
+    margin-top: 10px;
+}
